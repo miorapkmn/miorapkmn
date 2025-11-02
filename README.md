@@ -1,4 +1,9 @@
-# Hi there! I'm Kammy!
+# Hi there! I'm Miora!
+
+> ミオラ・リコ
+
+> [!NOTE]
+> I was formerly known as **Kammy** and changed my name recently.
 
 Check out my website: https://leafia.eu/
 
