@@ -19,4 +19,4 @@ Because of the rise of large language models and the use of public source code t
 
 ### Projects getting a source release soon
 
-* Okami (unfinished): December 2nd, 2025
+Nothing for now.
