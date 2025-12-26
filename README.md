@@ -19,4 +19,4 @@ Because of the rise of large language models and the use of public source code t
 
 ### Projects getting a source release soon
 
-Nothing for now.
+* Miora Media Encryption: January 26th, 2026
